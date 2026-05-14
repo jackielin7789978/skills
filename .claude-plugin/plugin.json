@@ -1,0 +1,6 @@
+{
+  "name": "jackielin-skills",
+  "skills": [
+    "./skills/example-skill"
+  ]
+}

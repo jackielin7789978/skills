@@ -16,7 +16,7 @@ The CLI will prompt you to choose which skills to install and whether to install
 
 | Skill | Description |
 | --- | --- |
-| [example-skill](./skills/example-skill/SKILL.md) | Template — replace with real skills. |
+| [to-checkpoints](./skills/to-checkpoints/SKILL.md) | 開始實作前先拆檢查點，每個 CP 結束停下來請使用者驗證，產出可跨 session 的文件。 |
 
 ## Adding a new skill
 

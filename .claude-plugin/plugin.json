@@ -1,6 +1,7 @@
 {
   "name": "jackielin-skills",
   "skills": [
-    "./skills/to-checkpoints"
+    "./skills/to-checkpoints",
+    "./skills/speak-tw"
   ]
 }
